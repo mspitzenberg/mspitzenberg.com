@@ -7,6 +7,7 @@
 /* General declaration of font */
 * {
   font-family: Interface, sans-serif;
+  color: #252525;
 }
 
 body {
@@ -14,6 +15,11 @@ body {
 
 ul li {
   font-size: 0.813em;
+}
+
+a, a:active, a:hover, a:visited {
+  color: #000;
+  background: yellow;
 }
 
 h1 {
@@ -28,6 +34,8 @@ p {
 .highlight-background {
   color: #000;
   background: yellow;
+  text-decoration: none;
+  padding: 0px;
 }
 
 .logo {
