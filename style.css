@@ -1,7 +1,7 @@
 /* Importing the "Interface" Font. TODO: Reference later locally */
 @import url('https://rsms.me/interface/interface.css');
-/* Importing Normalize.css to render consistently */
 
+/* Importing Normalize.css to render consistently */
 @import url('https://necolas.github.io/normalize.css/7.0.0/normalize.css');
 
 /* General declaration of font */
@@ -31,7 +31,5 @@ p {
 }
 
 .logo {
-  text-align: right;
   text-transform: uppercase;
-
 }
