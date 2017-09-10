@@ -50,6 +50,15 @@ p {
   line-height: 1.400em;
 }
 
+footer {
+}
+
+.separator {
+  width: 100px;
+  height: 10px;
+  color: lightgray;
+}
+
 .highlight-background {
   color: #000;
   background: yellow;
