@@ -8,6 +8,7 @@
 * {
   font-family: Interface, sans-serif;
   color: #252525;
+  box-sizing: border-box;
 }
 
 body {
@@ -53,6 +54,13 @@ p {
 footer {
 }
 
+.profile-image img {
+  width: 170px;
+  height: 224px;
+  display: block;
+  margin: 0 auto;
+}
+
 .separator {
   width: 100px;
   height: 10px;
@@ -64,6 +72,10 @@ footer {
   background: yellow;
   text-decoration: none;
   padding: 0px;
+}
+
+.clearfix {
+  clear: both;
 }
 
 .logo {
