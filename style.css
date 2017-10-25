@@ -52,6 +52,7 @@ p {
 }
 
 footer {
+
 }
 
 .profile-image img {
@@ -92,4 +93,8 @@ footer {
 .profile-image {
   text-align: center;
   display: block;
+}
+
+.hide-me {
+	visibility: hidden;
 }
