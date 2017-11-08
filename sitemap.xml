@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>https://mspitzenberg.com/index.html</loc>
+  <loc>https://mspitzenberg.com/</loc>
   <changefreq>monthly</changefreq>
-  <lastmod>2017-10-27</lastmod>
+  <lastmod>2017-11-08</lastmod>
 </url>
 <url>
-  <loc>https://mspitzenberg.com/impressum.html</loc>
+  <loc>https://mspitzenberg.com/impressum</loc>
   <changefreq>monthly</changefreq>
-  <lastmod>2017-10-27</lastmod>
+  <lastmod>2017-11-08</lastmod>
 </url>
 </urlset>
